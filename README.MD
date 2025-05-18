@@ -31,6 +31,20 @@ Export filtered employee data to a CSV file
 CSV should include: Name, Role, Location, Experience, Compensation, Status
 Reflect any applied incremented values
 
+Below Step Needs to follow to run this application:
+1. Download zip file from Github
+2. extract it and open in VS Code
+3. Run below command to see User stpry 1 outputs:
+    python case1.py
+    It display all employee records and bar chart. Select Location, Role as per your needs and see updated ressult below. also you can apply filter on inactive employees.
+    It has export option to export data to a CSV file.
+4. Run below commands to see output of user story 2
+   python case2/py
+   It displays aggregated summary data based on role and location. It has export option to export data to a CSV file.
+5. Run below command to see output of user story 3:
+   python case3.py
+   it gives option to simulate compensation by gicing different compensation hike percentage from a selection input field.
+   It gives current and updated compensation for all employees.
 
 Optional: Add screenshots
 Attached another file in repository will all application Screenshots
