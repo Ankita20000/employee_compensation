@@ -47,4 +47,4 @@ Below Step Needs to follow to run this application:
    It gives current and updated compensation for all employees.
 
 Optional: Add screenshots
-Attached another file in repository will all application Screenshots
+Attached another file in repository with all application Screenshots
